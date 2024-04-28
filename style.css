@@ -68,7 +68,7 @@
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(images/image\ 1.png) no-repeat center;
   background-size: cover;
-  height: 140vmin;
+  height: 100vmin;
   color: #fff;
   min-height: 500px;
   font-family: "ubuntu", sans-serif;
@@ -178,6 +178,9 @@ span.wrap-text {
 }
 /* Responsive Media queries Start */
 @media (max-width: 480px) {
+  .home .home-content a{
+    margin-top: 1.2vw;
+  }
   .home .home-content {
     min-width: 240px;
   }
