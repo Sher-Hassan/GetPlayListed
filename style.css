@@ -201,6 +201,9 @@ span.wrap-text {
   .home .max-width {
     margin: 150px 0 auto 0vw;
   }
+  .proof{
+    height: 140vmin;
+  }
   .max-width {
     padding: 0 30px;
   }
