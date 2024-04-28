@@ -23,6 +23,7 @@
 .sticky {
   padding: 15px 0;
   background: #002102;
+  z-index: 1;
 }
 
 .navbar .max-width {
