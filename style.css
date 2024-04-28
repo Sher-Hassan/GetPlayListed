@@ -188,7 +188,7 @@ span.wrap-text {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
       url(images/image\ 1\ phn\ 2.png) no-repeat center;
     background-size: cover;
-    max-height: 100vmax;
+    max-height: 130vmin;
   }
   .home .home-content {
     width: 280px;
